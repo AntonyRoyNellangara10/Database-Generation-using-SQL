@@ -1,0 +1,1001 @@
+empid,rank,police_staion,office_timing,age,no_of_arrests,no_of_medals,service_exp
+2751187,Police constable,Kensington Police Station,12:00 - 07:00,29,23,2,9
+5139582,Assistant commissioner,Croydon Police Station,12:00 - 07:00,60,102,5,40
+4996294,Chief inspector,Lavender Hill Police Station,19:00 - 01:00,26,3,1,6
+1674053,Inspector,Sutton Police Station,12:00 - 07:00,24,23,0,4
+6991011,Police constable,Walworth Police Station,19:00 - 01:00,29,40,0,9
+3118242,Inspector,Wembley Police Station,12:00 - 07:00,21,20,1,1
+3754391,Chief inspector,Harrow Police Station & Annexes,06:00 - 13:00,27,33,1,7
+1718384,Inspector,High Street,13:00 - 19:00,31,23,0,11
+2848925,Superintendent,Sutton Police Station,19:00 - 01:00,32,85,5,12
+4294835,Assistant commissioner,Colindale Police Station,06:00 - 13:00,47,147,6,27
+4996164,Superintendent,Lavender Hill Police Station,12:00 - 07:00,38,97,4,18
+5343990,Police sergeant,Sutton Police Station,13:00 - 19:00,21,33,0,1
+7564544,Commander,Wembley Police Station,06:00 - 13:00,30,93,3,10
+8035780,Chief inspector,Hayes Police Station,13:00 - 19:00,25,6,2,5
+228463,Superintendent,Wimbledon Police Station,13:00 - 19:00,36,57,4,16
+2208403,Chief superintendent,Plumstead Police Station,12:00 - 07:00,33,59,5,13
+7016602,Commander,Romford Police Station,06:00 - 13:00,36,56,4,16
+4147319,Deputy assistant commissioner,Walworth Police Station,13:00 - 19:00,35,69,4,15
+4315695,Police constable,Charing Cross Police Station ,12:00 - 07:00,25,8,2,5
+3422814,Superintendent,Bethnal Green Police Station,19:00 - 01:00,36,56,5,16
+7406905,Assistant commissioner,Harrow Police Station & Annexes,12:00 - 07:00,40,110,5,20
+4303318,Police constable,Chingford Police Station,12:00 - 07:00,23,2,1,3
+3580990,Police constable,Brixton Police Station,06:00 - 13:00,20,21,0,0
+9881544,Chief inspector,Edmonton Police StationForest Gate Police Station,13:00 - 19:00,22,39,0,2
+3854488,Commander,Sutton Police Station,19:00 - 01:00,30,71,3,10
+1734643,Police constable,Twickenham Police Station,06:00 - 13:00,30,6,2,10
+7651585,Police constable,Harrow Police Station & Annexes,12:00 - 07:00,22,12,2,2
+5331587,Police constable,Hounslow Police Station,12:00 - 07:00,24,24,2,4
+6005822,Deputy commissioner,Kingston Police Station,19:00 - 01:00,44,104,5,24
+6943009,Police sergeant,Kingston Police Station,13:00 - 19:00,21,44,2,1
+1622878,Chief superintendent,Mitcham Police Station,12:00 - 07:00,37,59,3,17
+3610455,Chief inspector,Mitcham Police Station,12:00 - 07:00,23,37,0,3
+1170465,Police sergeant,Walworth Police Station,19:00 - 01:00,23,9,1,3
+5661654,Police constable,High Street,13:00 - 19:00,29,40,2,9
+3972409,Police constable,26 Shepherds Bush Road,06:00 - 13:00,31,45,0,11
+5677513,Superintendent,Acton Police Station,12:00 - 07:00,32,53,4,12
+6979187,Police constable,Wembley Police Station,06:00 - 13:00,24,32,0,4
+211173,Police constable,2 Town Square,13:00 - 19:00,23,36,1,3
+2408585,Police constable,Islington Police Station,13:00 - 19:00,24,35,1,4
+6807065,Police constable,Stoke Newington Police Station,06:00 - 13:00,25,43,2,5
+4798852,Police sergeant,Hayes Police Station,12:00 - 07:00,29,25,1,9
+342182,Police sergeant,Wembley Police Station,19:00 - 01:00,27,39,1,7
+4974221,Police sergeant,Colindale Police Station,13:00 - 19:00,29,19,2,9
+64950,Superintendent,Charing Cross Police Station ,12:00 - 07:00,31,74,3,11
+4303172,Chief superintendent,Wembley Police Station,13:00 - 19:00,28,51,4,8
+7725661,Assistant commissioner,Hayes Police Station,12:00 - 07:00,58,140,6,38
+9693871,Inspector,Romford Police Station,12:00 - 07:00,22,19,1,2
+3203963,Police constable,Mitcham Police Station,19:00 - 01:00,25,9,1,5
+8851762,Superintendent,Croydon Police Station,19:00 - 01:00,30,82,5,10
+7324809,Police constable,26 Shepherds Bush Road,12:00 - 07:00,29,17,1,9
+1397303,Superintendent,Kentish Town Police Station,13:00 - 19:00,38,88,5,18
+886822,Superintendent,88 Church Street,12:00 - 07:00,30,98,4,10
+8474563,Deputy assistant commissioner,Harrow Police Station & Annexes,06:00 - 13:00,31,74,4,11
+1573836,Police sergeant,Wembley Police Station,06:00 - 13:00,25,41,1,5
+9571410,Assistant commissioner,Lavender Hill Police Station,13:00 - 19:00,54,127,5,34
+5365833,Police sergeant,Plumstead Police Station,19:00 - 01:00,22,11,2,2
+7421924,Police sergeant,Brixton Police Station,06:00 - 13:00,25,25,2,5
+5920878,Superintendent,Croydon Police Station,12:00 - 07:00,31,89,3,11
+1524417,Police constable,Wimbledon Police Station,19:00 - 01:00,29,1,1,9
+5961084,Police sergeant,Plumstead Police Station,13:00 - 19:00,29,29,2,9
+71783,Chief inspector,Ilford Police Station,12:00 - 07:00,31,21,0,11
+6869896,Police constable,Croydon Police Station,13:00 - 19:00,31,35,1,11
+4717734,Deputy commissioner,43 Lewisham High Street,12:00 - 07:00,60,105,5,40
+9536462,Inspector,Romford Police Station,19:00 - 01:00,26,8,1,6
+3109052,Police sergeant,Sutton Police Station,06:00 - 13:00,22,3,0,2
+9173944,Deputy commissioner,Twickenham Police Station,13:00 - 19:00,43,102,6,23
+4824240,Inspector,Colindale Police Station,12:00 - 07:00,23,35,1,3
+3231151,Chief superintendent,Stoke Newington Police Station,19:00 - 01:00,39,88,3,19
+1450532,Superintendent,88 Church Street,06:00 - 13:00,39,91,4,19
+6601903,Inspector,Ilford Police Station,06:00 - 13:00,24,39,0,4
+1623003,Police constable,88 Church Street,12:00 - 07:00,27,4,1,7
+3750884,Inspector,Kensington Police Station,06:00 - 13:00,22,36,0,2
+8481768,Commander,High Street,13:00 - 19:00,31,86,5,11
+868622,Inspector,Bexleyheath Police Station,19:00 - 01:00,22,30,1,2
+6228946,Chief inspector,Tottenham Police Station,13:00 - 19:00,23,49,0,3
+6568311,Police constable,Brixton Police Station,06:00 - 13:00,26,4,1,6
+1574934,Assistant commissioner,Bethnal Green Police Station,19:00 - 01:00,52,125,5,32
+3881878,Chief superintendent,Tottenham Police Station,06:00 - 13:00,29,66,4,9
+7620871,Commander,Dagenham Police Station,06:00 - 13:00,29,62,4,9
+4482597,Police sergeant,Kentish Town Police Station,06:00 - 13:00,28,28,2,8
+2642095,Police sergeant,43 Lewisham High Street,19:00 - 01:00,27,11,0,7
+5675360,Deputy commissioner,Hounslow Police Station,12:00 - 07:00,60,103,5,40
+712067,Police constable,Stoke Newington Police Station,12:00 - 07:00,20,29,2,0
+9837319,Police constable,Ilford Police Station,06:00 - 13:00,29,25,0,9
+4082999,Commander,Wimbledon Police Station,12:00 - 07:00,34,71,4,14
+1936793,Police sergeant,Ilford Police Station,12:00 - 07:00,27,14,1,7
+6461659,Police constable,Acton Police Station,13:00 - 19:00,27,39,0,7
+4377821,Inspector,Kensington Police Station,19:00 - 01:00,20,18,0,0
+9081881,Superintendent,Wembley Police Station,19:00 - 01:00,31,98,4,11
+3283763,Superintendent,High Street,12:00 - 07:00,39,57,5,19
+5670889,Chief inspector,Croydon Police Station,12:00 - 07:00,21,41,1,1
+9151061,Commander,Charing Cross Police Station ,06:00 - 13:00,33,55,5,13
+3442473,Chief inspector,Tottenham Police Station,06:00 - 13:00,28,38,0,8
+1221156,Superintendent,Tottenham Police Station,13:00 - 19:00,38,85,4,18
+5748338,Superintendent,Dagenham Police Station,19:00 - 01:00,31,56,5,11
+168540,Superintendent,Romford Police Station,06:00 - 13:00,32,74,4,12
+3762325,Police sergeant,Ilford Police Station,19:00 - 01:00,25,20,1,5
+5810307,Chief superintendent,Hounslow Police Station,13:00 - 19:00,35,54,5,15
+6411725,Police constable,Kentish Town Police Station,06:00 - 13:00,20,33,1,0
+3869347,Police constable,High Street,13:00 - 19:00,29,43,0,9
+8681601,Police constable,88 Church Street,06:00 - 13:00,31,32,1,11
+5372124,Deputy commissioner,High Street,12:00 - 07:00,50,145,5,30
+1182123,Chief inspector,Twickenham Police Station,12:00 - 07:00,21,24,0,1
+9519027,Police constable,Kingston Police Station,06:00 - 13:00,20,39,1,0
+8678674,Commander,Hounslow Police Station,06:00 - 13:00,37,58,3,17
+4875140,Police constable,Croydon Police Station,06:00 - 13:00,31,18,0,11
+8554389,Police sergeant,Colindale Police Station,12:00 - 07:00,28,32,0,8
+4293956,Superintendent,Twickenham Police Station,19:00 - 01:00,35,86,5,15
+9107431,Police sergeant,Twickenham Police Station,06:00 - 13:00,22,38,1,2
+9167900,Police sergeant,Plumstead Police Station,13:00 - 19:00,25,32,1,5
+6493411,Superintendent,Walworth Police Station,06:00 - 13:00,31,52,5,11
+1661961,Superintendent,Acton Police Station,19:00 - 01:00,30,89,3,10
+3071782,Inspector,Kingston Police Station,19:00 - 01:00,25,28,1,5
+8841753,Police sergeant,Edmonton Police StationForest Gate Police Station,12:00 - 07:00,21,45,0,1
+6091028,Police constable,Sutton Police Station,06:00 - 13:00,26,23,1,6
+8161651,Police constable,Kensington Police Station,12:00 - 07:00,20,18,0,0
+5291806,Inspector,43 Lewisham High Street,19:00 - 01:00,30,44,2,10
+4437895,Police constable,Kentish Town Police Station,12:00 - 07:00,31,13,1,11
+158372,Police constable,Chingford Police Station,12:00 - 07:00,25,2,2,5
+5033438,Inspector,Bexleyheath Police Station,12:00 - 07:00,31,40,1,11
+7191334,Assistant commissioner,Wembley Police Station,19:00 - 01:00,49,121,5,29
+6643213,Assistant commissioner,2 Town Square,06:00 - 13:00,42,129,5,22
+3178332,Commander,Dagenham Police Station,12:00 - 07:00,38,88,4,18
+8500501,Police constable,Acton Police Station,06:00 - 13:00,22,19,2,2
+4506081,Deputy commissioner,26 Shepherds Bush Road,06:00 - 13:00,52,146,5,32
+3782145,Deputy assistant commissioner,Kingston Police Station,12:00 - 07:00,32,74,3,12
+8531891,Inspector,43 Lewisham High Street,12:00 - 07:00,25,33,0,5
+7047244,Superintendent,Hayes Police Station,12:00 - 07:00,36,70,5,16
+2305664,Police constable,Hounslow Police Station,19:00 - 01:00,23,39,1,3
+2760143,Police sergeant,Plumstead Police Station,19:00 - 01:00,22,42,0,2
+8242791,Commander,Croydon Police Station,12:00 - 07:00,30,65,5,10
+7086746,Police constable,Islington Police Station,19:00 - 01:00,31,47,0,11
+3918793,Police sergeant,Stoke Newington Police Station,06:00 - 13:00,24,32,1,4
+5296122,Deputy commissioner,Chingford Police Station,19:00 - 01:00,52,103,6,32
+3088293,Chief inspector,Chingford Police Station,13:00 - 19:00,20,16,1,0
+7921707,Police constable,Kensington Police Station,13:00 - 19:00,21,13,2,1
+4625356,Police constable,Ilford Police Station,19:00 - 01:00,26,30,1,6
+3881796,Superintendent,Brixton Police Station,12:00 - 07:00,34,60,4,14
+6679475,Commander,Twickenham Police Station,13:00 - 19:00,30,78,3,10
+6176057,Police constable,Twickenham Police Station,13:00 - 19:00,29,28,1,9
+2686518,Commissioner,Kingston Police Station,13:00 - 19:00,47,112,5,27
+9529004,Police constable,Ilford Police Station,13:00 - 19:00,20,20,1,0
+3262595,Superintendent,High Street,12:00 - 07:00,38,54,3,18
+2282037,Police constable,Wimbledon Police Station,19:00 - 01:00,21,45,2,1
+9913634,Inspector,Islington Police Station,19:00 - 01:00,27,31,1,7
+7636192,Chief superintendent,Sutton Police Station,13:00 - 19:00,37,85,4,17
+387318,Police constable,Charing Cross Police Station ,12:00 - 07:00,20,45,2,0
+8557495,Police constable,High Street,12:00 - 07:00,31,3,2,11
+5298976,Police constable,Wembley Police Station,19:00 - 01:00,20,30,1,0
+9170736,Chief superintendent,Tottenham Police Station,12:00 - 07:00,36,67,3,16
+5333759,Superintendent,Edmonton Police StationForest Gate Police Station,06:00 - 13:00,34,81,5,14
+8271817,Commander,Hounslow Police Station,06:00 - 13:00,28,50,3,8
+8037003,Police constable,Bexleyheath Police Station,12:00 - 07:00,27,21,2,7
+9208871,Chief inspector,Walworth Police Station,13:00 - 19:00,30,11,0,10
+686491,Chief inspector,Tottenham Police Station,06:00 - 13:00,29,13,1,9
+1683425,Superintendent,Dagenham Police Station,12:00 - 07:00,38,58,4,18
+4974698,Inspector,Harrow Police Station & Annexes,12:00 - 07:00,20,26,0,0
+2966381,Chief inspector,Twickenham Police Station,06:00 - 13:00,29,26,1,9
+771519,Police sergeant,43 Lewisham High Street,06:00 - 13:00,28,9,0,8
+5137268,Assistant commissioner,Lavender Hill Police Station,13:00 - 19:00,53,120,5,33
+7696825,Commander,Bexleyheath Police Station,13:00 - 19:00,32,99,5,12
+6572866,Police constable,88 Church Street,06:00 - 13:00,20,6,1,0
+6783800,Deputy commissioner,Harrow Police Station & Annexes,13:00 - 19:00,50,128,5,30
+6838996,Commander,Kensington Police Station,12:00 - 07:00,35,74,5,15
+3847134,Inspector,Wimbledon Police Station,19:00 - 01:00,31,39,0,11
+3598250,Police sergeant,Wembley Police Station,19:00 - 01:00,29,45,0,9
+3044066,Superintendent,Charing Cross Police Station ,19:00 - 01:00,29,61,4,9
+2719916,Assistant commissioner,Croydon Police Station,19:00 - 01:00,49,122,6,29
+3225300,Inspector,Kensington Police Station,19:00 - 01:00,27,17,2,7
+9680920,Police constable,Hayes Police Station,12:00 - 07:00,25,14,1,5
+3682665,Police sergeant,Dagenham Police Station,06:00 - 13:00,30,23,2,10
+5814307,Police sergeant,Ilford Police Station,13:00 - 19:00,27,42,1,7
+5369797,Inspector,Hayes Police Station,19:00 - 01:00,29,11,2,9
+7174173,Police constable,Mitcham Police Station,12:00 - 07:00,30,43,1,10
+2467374,Police sergeant,2 Town Square,06:00 - 13:00,22,19,2,2
+3211482,Chief inspector,Acton Police Station,06:00 - 13:00,25,1,0,5
+7865417,Chief inspector,Plumstead Police Station,19:00 - 01:00,27,4,2,7
+1180502,Chief inspector,Mitcham Police Station,06:00 - 13:00,22,38,2,2
+7859774,Police constable,26 Shepherds Bush Road,19:00 - 01:00,24,22,1,4
+9131119,Police constable,Lavender Hill Police Station,12:00 - 07:00,31,14,1,11
+8497199,Police constable,Bethnal Green Police Station,19:00 - 01:00,26,26,0,6
+1311986,Chief superintendent,Hounslow Police Station,12:00 - 07:00,37,79,4,17
+5550985,Police sergeant,Wimbledon Police Station,13:00 - 19:00,26,48,2,6
+6633833,Police constable,Wembley Police Station,06:00 - 13:00,31,33,1,11
+3616834,Police sergeant,Colindale Police Station,13:00 - 19:00,28,2,1,8
+1671507,Police constable,Brixton Police Station,13:00 - 19:00,31,43,2,11
+9229295,Inspector,Islington Police Station,19:00 - 01:00,31,9,1,11
+2853852,Assistant commissioner,Hounslow Police Station,12:00 - 07:00,43,105,5,23
+4946155,Chief inspector,Dagenham Police Station,19:00 - 01:00,30,14,1,10
+1888171,Superintendent,Wembley Police Station,06:00 - 13:00,34,66,3,14
+705947,Superintendent,Charing Cross Police Station ,13:00 - 19:00,38,52,5,18
+1704930,Chief inspector,Colindale Police Station,13:00 - 19:00,22,29,1,2
+4079876,Police constable,Colindale Police Station,13:00 - 19:00,26,4,0,6
+979919,Police constable,Harrow Police Station & Annexes,12:00 - 07:00,26,32,2,6
+6935621,Inspector,Wimbledon Police Station,12:00 - 07:00,20,14,1,0
+8705727,Chief superintendent,Kingston Police Station,12:00 - 07:00,34,75,5,14
+5463224,Police constable,Croydon Police Station,13:00 - 19:00,27,3,1,7
+9016125,Commander,Kentish Town Police Station,13:00 - 19:00,32,87,3,12
+980058,Inspector,Acton Police Station,19:00 - 01:00,26,29,2,6
+9875638,Assistant commissioner,Harrow Police Station & Annexes,19:00 - 01:00,50,125,5,30
+9080344,Police sergeant,Edmonton Police StationForest Gate Police Station,19:00 - 01:00,22,4,2,2
+9153571,Inspector,Kensington Police Station,12:00 - 07:00,29,8,0,9
+7159,Police constable,Harrow Police Station & Annexes,12:00 - 07:00,25,0,0,5
+9383176,Commander,Tottenham Police Station,19:00 - 01:00,39,69,5,19
+2309354,Superintendent,43 Lewisham High Street,13:00 - 19:00,37,80,3,17
+3738336,Chief inspector,26 Shepherds Bush Road,19:00 - 01:00,29,47,0,9
+1269431,Chief superintendent,Sutton Police Station,19:00 - 01:00,29,94,4,9
+9593027,Deputy assistant commissioner,Bexleyheath Police Station,06:00 - 13:00,36,57,5,16
+1668021,Police constable,Charing Cross Police Station ,13:00 - 19:00,20,30,0,0
+9713922,Chief superintendent,Charing Cross Police Station ,06:00 - 13:00,29,66,4,9
+29812,Police constable,Ilford Police Station,19:00 - 01:00,22,49,1,2
+2844125,Police sergeant,Kentish Town Police Station,06:00 - 13:00,23,19,2,3
+1563118,Inspector,Lavender Hill Police Station,19:00 - 01:00,29,48,1,9
+9553174,Police sergeant,Dagenham Police Station,06:00 - 13:00,21,3,2,1
+9976690,Inspector,Kingston Police Station,13:00 - 19:00,29,4,1,9
+515091,Commander,Croydon Police Station,13:00 - 19:00,36,69,5,16
+5761945,Police sergeant,Kensington Police Station,06:00 - 13:00,22,21,0,2
+5777111,Police constable,High Street,06:00 - 13:00,28,30,1,8
+243114,Deputy commissioner,Romford Police Station,12:00 - 07:00,58,129,6,38
+6186328,Deputy commissioner,Croydon Police Station,19:00 - 01:00,54,134,5,34
+1367742,Police constable,Bexleyheath Police Station,12:00 - 07:00,25,29,1,5
+9871817,Assistant commissioner,Kentish Town Police Station,06:00 - 13:00,55,141,6,35
+913692,Police constable,Charing Cross Police Station ,06:00 - 13:00,22,30,2,2
+689615,Superintendent,Wembley Police Station,06:00 - 13:00,39,74,4,19
+1281782,Police constable,Wembley Police Station,12:00 - 07:00,23,33,1,3
+9892767,Police constable,Croydon Police Station,06:00 - 13:00,20,6,1,0
+2516925,Inspector,Edmonton Police StationForest Gate Police Station,12:00 - 07:00,29,8,2,9
+298013,Police constable,High Street,06:00 - 13:00,20,8,0,0
+9436683,Superintendent,Bexleyheath Police Station,19:00 - 01:00,32,57,5,12
+7875772,Superintendent,Sutton Police Station,06:00 - 13:00,38,62,4,18
+5082446,Police sergeant,Sutton Police Station,13:00 - 19:00,24,12,2,4
+537385,Assistant commissioner,Twickenham Police Station,13:00 - 19:00,48,146,5,28
+8061942,Superintendent,Ilford Police Station,12:00 - 07:00,29,91,5,9
+5908177,Superintendent,Mitcham Police Station,12:00 - 07:00,28,80,3,8
+97447,Commander,Brixton Police Station,13:00 - 19:00,31,53,5,11
+8978373,Police constable,Chingford Police Station,19:00 - 01:00,30,37,0,10
+9221804,Commander,Twickenham Police Station,06:00 - 13:00,32,67,4,12
+1312497,Chief inspector,Islington Police Station,06:00 - 13:00,25,40,2,5
+7720713,Assistant commissioner,Hounslow Police Station,12:00 - 07:00,52,112,5,32
+9428866,Police constable,Charing Cross Police Station ,06:00 - 13:00,21,12,0,1
+494822,Chief superintendent,Dagenham Police Station,13:00 - 19:00,37,51,5,17
+5809944,Police constable,Islington Police Station,19:00 - 01:00,30,4,0,10
+8909616,Police sergeant,Bethnal Green Police Station,19:00 - 01:00,25,40,2,5
+8902188,Chief superintendent,Hounslow Police Station,19:00 - 01:00,32,63,4,12
+1503643,Chief superintendent,Brixton Police Station,12:00 - 07:00,36,84,5,16
+4804080,Assistant commissioner,Plumstead Police Station,12:00 - 07:00,56,101,5,36
+8458813,Assistant commissioner,Islington Police Station,06:00 - 13:00,41,115,5,21
+5339421,Commander,Croydon Police Station,13:00 - 19:00,36,65,5,16
+4303793,Chief superintendent,High Street,06:00 - 13:00,31,98,3,11
+3362448,Commander,Colindale Police Station,19:00 - 01:00,33,74,5,13
+7237223,Police constable,Edmonton Police StationForest Gate Police Station,13:00 - 19:00,26,21,1,6
+337289,Police sergeant,Islington Police Station,06:00 - 13:00,23,32,0,3
+1075651,Police constable,Acton Police Station,06:00 - 13:00,21,44,1,1
+4645525,Police constable,Hounslow Police Station,13:00 - 19:00,28,18,1,8
+564534,Inspector,Wembley Police Station,13:00 - 19:00,22,45,1,2
+4665714,Deputy commissioner,Chingford Police Station,06:00 - 13:00,44,115,5,24
+7489233,Police constable,Acton Police Station,19:00 - 01:00,29,33,2,9
+1906607,Police sergeant,High Street,19:00 - 01:00,25,9,2,5
+4119477,Police sergeant,Colindale Police Station,19:00 - 01:00,22,15,0,2
+1788873,Chief inspector,Bethnal Green Police Station,19:00 - 01:00,30,28,0,10
+5246056,Police constable,Hayes Police Station,13:00 - 19:00,22,25,0,2
+4966646,Police constable,Charing Cross Police Station ,13:00 - 19:00,24,6,2,4
+2195607,Police constable,26 Shepherds Bush Road,13:00 - 19:00,27,24,0,7
+576144,Inspector,High Street,13:00 - 19:00,28,1,1,8
+2565266,Inspector,Brixton Police Station,06:00 - 13:00,22,33,2,2
+3143630,Superintendent,Mitcham Police Station,12:00 - 07:00,32,91,4,12
+6246965,Chief inspector,Harrow Police Station & Annexes,13:00 - 19:00,31,7,1,11
+6943348,Commander,High Street,19:00 - 01:00,33,74,5,13
+2221273,Superintendent,Bexleyheath Police Station,06:00 - 13:00,32,91,4,12
+4068920,Chief superintendent,Bethnal Green Police Station,13:00 - 19:00,29,64,5,9
+4879809,Police constable,43 Lewisham High Street,13:00 - 19:00,22,42,2,2
+2622092,Police constable,Bexleyheath Police Station,19:00 - 01:00,30,26,1,10
+3658196,Chief inspector,Hounslow Police Station,19:00 - 01:00,23,5,0,3
+1557365,Inspector,Hounslow Police Station,06:00 - 13:00,22,20,1,2
+634830,Police constable,Hounslow Police Station,12:00 - 07:00,27,24,2,7
+757835,Assistant commissioner,Walworth Police Station,13:00 - 19:00,53,137,5,33
+8822519,Police constable,2 Town Square,13:00 - 19:00,20,20,1,0
+4958874,Police constable,Twickenham Police Station,12:00 - 07:00,30,37,0,10
+3361191,Inspector,Plumstead Police Station,19:00 - 01:00,31,43,0,11
+5007060,Inspector,Islington Police Station,19:00 - 01:00,31,38,2,11
+3491651,Police sergeant,Ilford Police Station,19:00 - 01:00,26,13,1,6
+1516671,Police constable,88 Church Street,19:00 - 01:00,30,6,0,10
+3207366,Chief superintendent,Islington Police Station,19:00 - 01:00,33,57,3,13
+1224001,Chief superintendent,Croydon Police Station,19:00 - 01:00,36,99,5,16
+4653324,Superintendent,Tottenham Police Station,13:00 - 19:00,34,52,5,14
+4514615,Police constable,Charing Cross Police Station ,12:00 - 07:00,20,32,2,0
+2156887,Chief inspector,Chingford Police Station,12:00 - 07:00,22,28,0,2
+2089410,Police sergeant,Stoke Newington Police Station,06:00 - 13:00,25,4,1,5
+2633050,Police constable,Kingston Police Station,06:00 - 13:00,27,45,1,7
+7336030,Chief superintendent,Wimbledon Police Station,19:00 - 01:00,29,66,5,9
+1965297,Police sergeant,Brixton Police Station,12:00 - 07:00,28,16,0,8
+4262621,Police constable,Hayes Police Station,12:00 - 07:00,22,6,0,2
+1568429,Police constable,26 Shepherds Bush Road,06:00 - 13:00,28,9,1,8
+5512596,Police sergeant,Plumstead Police Station,12:00 - 07:00,23,18,1,3
+1519841,Police constable,Kentish Town Police Station,12:00 - 07:00,27,6,0,7
+2830575,Superintendent,High Street,12:00 - 07:00,36,57,4,16
+2694408,Police constable,Dagenham Police Station,13:00 - 19:00,29,42,0,9
+1978155,Superintendent,Dagenham Police Station,19:00 - 01:00,28,88,5,8
+1248589,Chief inspector,Charing Cross Police Station ,06:00 - 13:00,29,38,2,9
+2442691,Chief inspector,Chingford Police Station,06:00 - 13:00,26,7,0,6
+1067641,Police constable,Edmonton Police StationForest Gate Police Station,06:00 - 13:00,21,1,0,1
+7874801,Police sergeant,88 Church Street,12:00 - 07:00,27,33,1,7
+7829201,Police sergeant,Hounslow Police Station,12:00 - 07:00,29,48,0,9
+8828214,Police constable,Harrow Police Station & Annexes,19:00 - 01:00,24,14,1,4
+2089473,Police sergeant,Kingston Police Station,19:00 - 01:00,29,45,2,9
+6621137,Police constable,Bethnal Green Police Station,12:00 - 07:00,20,2,1,0
+4224446,Police sergeant,Kingston Police Station,06:00 - 13:00,21,22,0,1
+7211427,Police constable,88 Church Street,13:00 - 19:00,21,4,1,1
+2352897,Deputy commissioner,Brixton Police Station,13:00 - 19:00,54,140,5,34
+1275292,Superintendent,Stoke Newington Police Station,19:00 - 01:00,35,97,3,15
+4632107,Inspector,Charing Cross Police Station ,19:00 - 01:00,31,20,1,11
+9643394,Inspector,Walworth Police Station,12:00 - 07:00,30,28,1,10
+4165785,Police sergeant,Walworth Police Station,13:00 - 19:00,28,8,2,8
+2704037,Superintendent,Islington Police Station,13:00 - 19:00,34,81,5,14
+6179676,Police constable,Croydon Police Station,13:00 - 19:00,20,44,2,0
+5305126,Police constable,Walworth Police Station,19:00 - 01:00,29,2,0,9
+5155571,Chief inspector,Bexleyheath Police Station,13:00 - 19:00,23,10,0,3
+1722105,Police sergeant,Kingston Police Station,06:00 - 13:00,25,12,2,5
+835492,Police constable,High Street,19:00 - 01:00,29,37,0,9
+8944406,Superintendent,Tottenham Police Station,06:00 - 13:00,32,84,4,12
+5016388,Police sergeant,Croydon Police Station,19:00 - 01:00,28,27,2,8
+3397595,Chief inspector,High Street,12:00 - 07:00,31,10,0,11
+2561278,Police sergeant,Sutton Police Station,19:00 - 01:00,30,27,0,10
+6673288,Police constable,Mitcham Police Station,12:00 - 07:00,28,33,2,8
+2475942,Police sergeant,Tottenham Police Station,12:00 - 07:00,24,10,1,4
+5405229,Police sergeant,Croydon Police Station,06:00 - 13:00,24,2,2,4
+6334475,Police sergeant,Romford Police Station,06:00 - 13:00,30,6,0,10
+5220088,Chief superintendent,Stoke Newington Police Station,06:00 - 13:00,33,65,3,13
+6437082,Inspector,Wimbledon Police Station,19:00 - 01:00,24,19,2,4
+2592352,Inspector,Kentish Town Police Station,12:00 - 07:00,22,5,1,2
+9516252,Commander,Plumstead Police Station,19:00 - 01:00,34,58,3,14
+1324520,Inspector,Plumstead Police Station,13:00 - 19:00,24,40,2,4
+6647964,Superintendent,Stoke Newington Police Station,19:00 - 01:00,36,75,4,16
+8519945,Superintendent,Romford Police Station,12:00 - 07:00,33,74,5,13
+7162355,Police sergeant,Tottenham Police Station,12:00 - 07:00,28,10,0,8
+8981880,Police sergeant,Kensington Police Station,13:00 - 19:00,25,5,2,5
+8863733,Police constable,Wembley Police Station,13:00 - 19:00,21,26,2,1
+2060728,Inspector,Croydon Police Station,06:00 - 13:00,26,5,2,6
+2438802,Police constable,Stoke Newington Police Station,13:00 - 19:00,29,22,2,9
+906708,Police constable,Edmonton Police StationForest Gate Police Station,12:00 - 07:00,27,13,0,7
+8528382,Commander,Kentish Town Police Station,13:00 - 19:00,38,67,4,18
+2832917,Superintendent,Bexleyheath Police Station,06:00 - 13:00,39,61,3,19
+8208055,Inspector,Walworth Police Station,12:00 - 07:00,24,27,1,4
+5891492,Police constable,Charing Cross Police Station ,12:00 - 07:00,21,30,1,1
+740624,Chief inspector,Tottenham Police Station,12:00 - 07:00,31,15,0,11
+3854890,Police constable,Wimbledon Police Station,19:00 - 01:00,25,4,0,5
+3527648,Police constable,Kensington Police Station,19:00 - 01:00,30,25,2,10
+723122,Police constable,Tottenham Police Station,06:00 - 13:00,29,1,1,9
+1575918,Police constable,Twickenham Police Station,06:00 - 13:00,26,2,1,6
+2441055,Superintendent,26 Shepherds Bush Road,19:00 - 01:00,34,78,5,14
+6932677,Police sergeant,Romford Police Station,12:00 - 07:00,20,25,0,0
+9164143,Police constable,Stoke Newington Police Station,19:00 - 01:00,22,19,1,2
+2927334,Police constable,Harrow Police Station & Annexes,19:00 - 01:00,24,39,2,4
+9815334,Chief inspector,Mitcham Police Station,19:00 - 01:00,22,8,0,2
+27687,Superintendent,Harrow Police Station & Annexes,06:00 - 13:00,33,65,3,13
+9272496,Police sergeant,High Street,12:00 - 07:00,25,13,1,5
+7919794,Chief inspector,Kentish Town Police Station,06:00 - 13:00,31,25,1,11
+7019405,Commander,Stoke Newington Police Station,19:00 - 01:00,31,54,3,11
+8084536,Police constable,Tottenham Police Station,06:00 - 13:00,26,12,0,6
+2878697,Inspector,Harrow Police Station & Annexes,19:00 - 01:00,26,17,2,6
+2598651,Police constable,Dagenham Police Station,12:00 - 07:00,26,32,2,6
+4251437,Police sergeant,Croydon Police Station,12:00 - 07:00,31,32,0,11
+9205448,Superintendent,Lavender Hill Police Station,12:00 - 07:00,33,81,5,13
+6829375,Police constable,Wimbledon Police Station,13:00 - 19:00,29,36,0,9
+1704565,Police constable,Lavender Hill Police Station,19:00 - 01:00,20,36,1,0
+8987073,Police constable,Walworth Police Station,06:00 - 13:00,26,42,2,6
+193927,Inspector,Islington Police Station,19:00 - 01:00,27,11,2,7
+9190724,Superintendent,Bethnal Green Police Station,06:00 - 13:00,28,67,3,8
+8054816,Commander,Tottenham Police Station,19:00 - 01:00,35,75,5,15
+6482155,Police constable,Ilford Police Station,06:00 - 13:00,22,19,1,2
+8302669,Inspector,Brixton Police Station,12:00 - 07:00,26,38,1,6
+7656600,Police sergeant,Bethnal Green Police Station,13:00 - 19:00,30,20,1,10
+9907694,Commander,Hounslow Police Station,19:00 - 01:00,30,77,5,10
+1979413,Commander,Twickenham Police Station,12:00 - 07:00,31,64,4,11
+2589592,Chief inspector,Lavender Hill Police Station,12:00 - 07:00,24,32,0,4
+3572404,Superintendent,26 Shepherds Bush Road,19:00 - 01:00,39,58,3,19
+3947394,Police constable,88 Church Street,06:00 - 13:00,26,37,1,6
+7997885,Police sergeant,Mitcham Police Station,06:00 - 13:00,22,0,1,2
+1542308,Deputy commissioner,Sutton Police Station,19:00 - 01:00,47,118,6,27
+537881,Police constable,Islington Police Station,13:00 - 19:00,30,49,1,10
+8565880,Chief superintendent,Edmonton Police StationForest Gate Police Station,19:00 - 01:00,33,82,5,13
+8805933,Chief superintendent,Dagenham Police Station,06:00 - 13:00,32,89,4,12
+7330822,Assistant commissioner,Dagenham Police Station,12:00 - 07:00,47,144,5,27
+4931468,Police constable,Kentish Town Police Station,13:00 - 19:00,22,29,1,2
+1453743,Police constable,Twickenham Police Station,19:00 - 01:00,25,24,0,5
+1213386,Police sergeant,Brixton Police Station,13:00 - 19:00,29,47,1,9
+7937964,Inspector,Dagenham Police Station,19:00 - 01:00,28,28,1,8
+8906261,Inspector,Stoke Newington Police Station,12:00 - 07:00,24,24,2,4
+7551025,Police constable,Brixton Police Station,19:00 - 01:00,24,3,0,4
+576652,Police constable,Tottenham Police Station,06:00 - 13:00,26,38,1,6
+5489353,Commander,Colindale Police Station,06:00 - 13:00,31,72,3,11
+3639197,Police sergeant,Hounslow Police Station,13:00 - 19:00,22,46,2,2
+9131287,Commander,Romford Police Station,06:00 - 13:00,33,96,5,13
+443641,Police constable,Plumstead Police Station,12:00 - 07:00,20,16,0,0
+7684838,Chief superintendent,Wembley Police Station,12:00 - 07:00,33,50,5,13
+7388718,Superintendent,Harrow Police Station & Annexes,12:00 - 07:00,36,65,4,16
+295180,Inspector,Dagenham Police Station,19:00 - 01:00,24,48,0,4
+9134905,Chief inspector,Mitcham Police Station,06:00 - 13:00,21,43,1,1
+6988773,Chief inspector,Bexleyheath Police Station,13:00 - 19:00,25,39,2,5
+6861617,Police constable,Walworth Police Station,12:00 - 07:00,22,40,0,2
+4003675,Chief superintendent,Edmonton Police StationForest Gate Police Station,13:00 - 19:00,39,55,3,19
+3511454,Police constable,Kentish Town Police Station,13:00 - 19:00,22,6,0,2
+5356358,Police sergeant,Twickenham Police Station,12:00 - 07:00,24,20,1,4
+9962310,Police sergeant,High Street,06:00 - 13:00,21,30,0,1
+3096851,Police constable,Sutton Police Station,12:00 - 07:00,29,4,2,9
+9220889,Chief inspector,Hounslow Police Station,12:00 - 07:00,31,5,0,11
+5983481,Police constable,Ilford Police Station,06:00 - 13:00,20,23,2,0
+5302904,Police constable,Dagenham Police Station,13:00 - 19:00,28,44,2,8
+1759498,Deputy commissioner,Twickenham Police Station,12:00 - 07:00,58,117,5,38
+9835141,Police constable,Romford Police Station,06:00 - 13:00,25,38,2,5
+2836875,Police sergeant,Kensington Police Station,13:00 - 19:00,22,11,2,2
+762053,Police constable,2 Town Square,13:00 - 19:00,28,12,0,8
+2182772,Inspector,Walworth Police Station,06:00 - 13:00,26,43,0,6
+2862986,Police constable,Bethnal Green Police Station,12:00 - 07:00,26,32,1,6
+9921053,Police constable,Sutton Police Station,19:00 - 01:00,21,32,1,1
+7585182,Chief inspector,26 Shepherds Bush Road,13:00 - 19:00,23,25,2,3
+8002255,Inspector,Islington Police Station,13:00 - 19:00,29,7,0,9
+6292968,Inspector,Tottenham Police Station,13:00 - 19:00,27,32,1,7
+9043918,Police constable,26 Shepherds Bush Road,19:00 - 01:00,31,33,2,11
+8704385,Superintendent,Edmonton Police StationForest Gate Police Station,06:00 - 13:00,37,87,4,17
+3019120,Police sergeant,Harrow Police Station & Annexes,13:00 - 19:00,21,13,0,1
+7817185,Police constable,Romford Police Station,06:00 - 13:00,29,12,2,9
+2506505,Inspector,26 Shepherds Bush Road,06:00 - 13:00,28,36,2,8
+3820731,Superintendent,Ilford Police Station,12:00 - 07:00,29,68,3,9
+5139710,Police sergeant,Lavender Hill Police Station,13:00 - 19:00,25,43,0,5
+1343659,Police sergeant,Twickenham Police Station,13:00 - 19:00,22,23,0,2
+9246456,Superintendent,Romford Police Station,12:00 - 07:00,33,58,5,13
+4646814,Police sergeant,Mitcham Police Station,13:00 - 19:00,31,6,2,11
+6765672,Superintendent,Stoke Newington Police Station,06:00 - 13:00,31,80,5,11
+2212091,Police sergeant,88 Church Street,06:00 - 13:00,29,24,0,9
+553050,Police constable,Kentish Town Police Station,06:00 - 13:00,22,43,2,2
+8193806,Police sergeant,88 Church Street,19:00 - 01:00,26,49,2,6
+8609379,Police sergeant,Kingston Police Station,19:00 - 01:00,30,10,1,10
+9972679,Police sergeant,High Street,13:00 - 19:00,29,20,2,9
+2124495,Police constable,Croydon Police Station,19:00 - 01:00,21,35,2,1
+6949160,Inspector,Kingston Police Station,06:00 - 13:00,23,14,0,3
+6316905,Chief superintendent,Twickenham Police Station,13:00 - 19:00,33,57,4,13
+8080172,Police sergeant,Bethnal Green Police Station,06:00 - 13:00,25,37,0,5
+1514877,Police constable,Hayes Police Station,06:00 - 13:00,30,21,2,10
+5985173,Police sergeant,Walworth Police Station,12:00 - 07:00,25,33,2,5
+3011554,Police constable,Plumstead Police Station,06:00 - 13:00,22,46,1,2
+7242307,Police sergeant,26 Shepherds Bush Road,19:00 - 01:00,24,16,2,4
+8703644,Police constable,Ilford Police Station,13:00 - 19:00,24,6,2,4
+3457823,Police constable,Dagenham Police Station,06:00 - 13:00,21,26,2,1
+5688173,Chief inspector,Bexleyheath Police Station,06:00 - 13:00,22,47,2,2
+9024453,Inspector,Stoke Newington Police Station,13:00 - 19:00,25,34,0,5
+5796968,Inspector,Hounslow Police Station,13:00 - 19:00,24,19,0,4
+2143251,Superintendent,Edmonton Police StationForest Gate Police Station,19:00 - 01:00,34,62,4,14
+5998409,Police sergeant,Bexleyheath Police Station,19:00 - 01:00,24,22,0,4
+1333916,Deputy assistant commissioner,2 Town Square,19:00 - 01:00,29,50,4,9
+3712273,Chief superintendent,Chingford Police Station,19:00 - 01:00,35,62,5,15
+1234417,Inspector,Acton Police Station,12:00 - 07:00,25,42,2,5
+4348256,Superintendent,26 Shepherds Bush Road,19:00 - 01:00,33,96,3,13
+108331,Deputy assistant commissioner,Bexleyheath Police Station,13:00 - 19:00,28,74,5,8
+1150607,Police sergeant,Charing Cross Police Station ,13:00 - 19:00,31,11,0,11
+6301300,Chief inspector,Charing Cross Police Station ,12:00 - 07:00,22,3,1,2
+5756922,Chief inspector,Colindale Police Station,13:00 - 19:00,23,20,2,3
+7488813,Inspector,Hounslow Police Station,13:00 - 19:00,27,32,0,7
+1349316,Inspector,Harrow Police Station & Annexes,06:00 - 13:00,30,41,1,10
+1929215,Police constable,Stoke Newington Police Station,06:00 - 13:00,25,44,1,5
+5549013,Superintendent,Dagenham Police Station,19:00 - 01:00,37,84,4,17
+2698274,Police sergeant,Hayes Police Station,06:00 - 13:00,25,41,1,5
+3731834,Chief inspector,Wembley Police Station,19:00 - 01:00,28,42,0,8
+6952319,Commissioner,Croydon Police Station,12:00 - 07:00,55,120,5,35
+8945055,Superintendent,Islington Police Station,13:00 - 19:00,29,65,3,9
+8711226,Superintendent,Acton Police Station,06:00 - 13:00,34,74,4,14
+5497055,Chief inspector,43 Lewisham High Street,06:00 - 13:00,25,2,2,5
+2129609,Inspector,Croydon Police Station,06:00 - 13:00,29,35,0,9
+3884568,Inspector,Bexleyheath Police Station,13:00 - 19:00,21,7,0,1
+2933232,Commander,Kingston Police Station,06:00 - 13:00,36,99,5,16
+8295153,Chief superintendent,Croydon Police Station,06:00 - 13:00,32,50,4,12
+5401946,Assistant commissioner,Bethnal Green Police Station,12:00 - 07:00,52,127,6,32
+8055221,Police constable,Ilford Police Station,19:00 - 01:00,26,21,2,6
+6704726,Police sergeant,Twickenham Police Station,19:00 - 01:00,27,29,0,7
+7136868,Chief inspector,Romford Police Station,12:00 - 07:00,31,28,2,11
+8728300,Police constable,Ilford Police Station,13:00 - 19:00,20,24,1,0
+5045572,Chief inspector,26 Shepherds Bush Road,13:00 - 19:00,21,18,0,1
+5848906,Police constable,Charing Cross Police Station ,13:00 - 19:00,26,9,1,6
+9600881,Commissioner,Lavender Hill Police Station,12:00 - 07:00,54,138,6,34
+3460958,Police sergeant,Twickenham Police Station,19:00 - 01:00,30,4,1,10
+1998580,Inspector,Romford Police Station,13:00 - 19:00,27,7,2,7
+6316030,Assistant commissioner,Stoke Newington Police Station,13:00 - 19:00,47,114,6,27
+9391103,Chief inspector,Tottenham Police Station,06:00 - 13:00,27,15,2,7
+869781,Superintendent,Hounslow Police Station,13:00 - 19:00,33,52,3,13
+2371653,Inspector,Chingford Police Station,06:00 - 13:00,22,2,2,2
+3378935,Inspector,Islington Police Station,13:00 - 19:00,22,35,1,2
+9823232,Deputy assistant commissioner,Romford Police Station,06:00 - 13:00,31,53,3,11
+5812378,Chief inspector,Kentish Town Police Station,19:00 - 01:00,29,25,1,9
+1971403,Inspector,Bexleyheath Police Station,06:00 - 13:00,21,39,1,1
+7248340,Assistant commissioner,Stoke Newington Police Station,13:00 - 19:00,45,124,6,25
+3167943,Inspector,Bexleyheath Police Station,13:00 - 19:00,30,38,1,10
+2103924,Police sergeant,Sutton Police Station,19:00 - 01:00,30,39,2,10
+9139083,Police sergeant,Romford Police Station,12:00 - 07:00,23,31,0,3
+6772515,Superintendent,Mitcham Police Station,13:00 - 19:00,34,77,3,14
+8696296,Superintendent,Kingston Police Station,19:00 - 01:00,37,98,5,17
+8547688,Chief superintendent,Harrow Police Station & Annexes,13:00 - 19:00,29,72,3,9
+4664598,Police sergeant,43 Lewisham High Street,12:00 - 07:00,29,48,0,9
+6511306,Police constable,Stoke Newington Police Station,19:00 - 01:00,21,17,0,1
+6249532,Commander,Charing Cross Police Station ,06:00 - 13:00,32,63,4,12
+9473886,Chief inspector,Brixton Police Station,06:00 - 13:00,22,15,2,2
+7450788,Police sergeant,Colindale Police Station,19:00 - 01:00,23,27,0,3
+6731334,Police sergeant,Sutton Police Station,13:00 - 19:00,21,35,2,1
+5772843,Chief superintendent,Kentish Town Police Station,13:00 - 19:00,36,51,3,16
+9747822,Deputy commissioner,Colindale Police Station,13:00 - 19:00,53,145,5,33
+1520791,Inspector,Ilford Police Station,12:00 - 07:00,24,42,2,4
+4973788,Commander,Romford Police Station,19:00 - 01:00,32,51,4,12
+7354948,Deputy commissioner,Ilford Police Station,06:00 - 13:00,49,121,5,29
+2119125,Police constable,Lavender Hill Police Station,13:00 - 19:00,26,17,0,6
+4583851,Inspector,Wimbledon Police Station,06:00 - 13:00,31,20,1,11
+2598166,Chief inspector,Islington Police Station,13:00 - 19:00,30,8,1,10
+1069751,Commander,Colindale Police Station,12:00 - 07:00,36,79,5,16
+9187347,Chief inspector,Islington Police Station,19:00 - 01:00,30,35,1,10
+4292364,Commander,Acton Police Station,12:00 - 07:00,36,81,4,16
+9460068,Police constable,Croydon Police Station,06:00 - 13:00,29,11,0,9
+2710242,Police constable,High Street,19:00 - 01:00,28,18,0,8
+1388116,Superintendent,Plumstead Police Station,12:00 - 07:00,38,74,3,18
+6897390,Police constable,Wembley Police Station,06:00 - 13:00,24,18,0,4
+7668486,Inspector,Croydon Police Station,13:00 - 19:00,23,49,1,3
+1264236,Police sergeant,Bexleyheath Police Station,19:00 - 01:00,25,10,2,5
+748053,Inspector,Tottenham Police Station,19:00 - 01:00,20,33,1,0
+6403446,Commander,Charing Cross Police Station ,13:00 - 19:00,36,85,5,16
+1412410,Police sergeant,Stoke Newington Police Station,06:00 - 13:00,31,12,1,11
+7556976,Superintendent,Croydon Police Station,19:00 - 01:00,28,77,4,8
+590276,Chief inspector,Stoke Newington Police Station,12:00 - 07:00,29,29,1,9
+8075466,Deputy assistant commissioner,Wembley Police Station,12:00 - 07:00,31,50,4,11
+5006495,Police sergeant,Bexleyheath Police Station,13:00 - 19:00,23,25,0,3
+7404805,Inspector,Brixton Police Station,19:00 - 01:00,31,27,2,11
+2383686,Police sergeant,Romford Police Station,19:00 - 01:00,24,48,1,4
+4255490,Police constable,Lavender Hill Police Station,13:00 - 19:00,20,49,1,0
+6051814,Superintendent,Mitcham Police Station,13:00 - 19:00,38,59,5,18
+9731387,Police sergeant,Charing Cross Police Station ,06:00 - 13:00,28,21,1,8
+399596,Superintendent,Mitcham Police Station,06:00 - 13:00,35,77,3,15
+1800317,Police constable,Hayes Police Station,13:00 - 19:00,26,17,1,6
+4484319,Chief superintendent,Islington Police Station,19:00 - 01:00,38,52,3,18
+3939910,Police sergeant,Wembley Police Station,13:00 - 19:00,25,19,2,5
+6630446,Police sergeant,2 Town Square,12:00 - 07:00,30,23,1,10
+4504384,Superintendent,Ilford Police Station,13:00 - 19:00,36,89,4,16
+5388993,Inspector,Edmonton Police StationForest Gate Police Station,06:00 - 13:00,31,30,2,11
+4527529,Commander,Bexleyheath Police Station,06:00 - 13:00,29,82,5,9
+2373509,Police constable,26 Shepherds Bush Road,06:00 - 13:00,23,20,1,3
+7536051,Commander,88 Church Street,12:00 - 07:00,29,83,3,9
+9336099,Chief inspector,Stoke Newington Police Station,13:00 - 19:00,29,23,0,9
+5103667,Police constable,Chingford Police Station,12:00 - 07:00,25,33,1,5
+6341448,Superintendent,Wimbledon Police Station,19:00 - 01:00,28,63,3,8
+3998206,Police sergeant,Acton Police Station,12:00 - 07:00,27,32,0,7
+3640503,Police sergeant,Bexleyheath Police Station,12:00 - 07:00,27,3,2,7
+4588814,Police constable,Tottenham Police Station,13:00 - 19:00,27,20,1,7
+2470917,Superintendent,Bexleyheath Police Station,19:00 - 01:00,32,64,4,12
+2995012,Inspector,Edmonton Police StationForest Gate Police Station,12:00 - 07:00,31,12,2,11
+7666936,Police constable,88 Church Street,12:00 - 07:00,20,41,1,0
+2648174,Chief inspector,Chingford Police Station,12:00 - 07:00,31,17,2,11
+2186245,Commander,Dagenham Police Station,13:00 - 19:00,32,87,4,12
+7888554,Police constable,Brixton Police Station,12:00 - 07:00,27,43,0,7
+4701871,Police constable,Kensington Police Station,19:00 - 01:00,24,19,2,4
+3335366,Chief superintendent,High Street,12:00 - 07:00,31,89,4,11
+4060918,Chief superintendent,Kensington Police Station,19:00 - 01:00,29,95,3,9
+7435383,Police constable,Lavender Hill Police Station,06:00 - 13:00,28,25,2,8
+2812368,Police sergeant,Stoke Newington Police Station,06:00 - 13:00,25,39,1,5
+3457942,Police constable,Bethnal Green Police Station,12:00 - 07:00,27,29,1,7
+9143030,Inspector,Bexleyheath Police Station,06:00 - 13:00,30,34,2,10
+1229705,Commander,Wembley Police Station,12:00 - 07:00,30,75,5,10
+9422860,Police constable,Bethnal Green Police Station,13:00 - 19:00,31,46,2,11
+94945,Superintendent,Sutton Police Station,12:00 - 07:00,37,50,3,17
+322103,Commander,2 Town Square,12:00 - 07:00,38,50,3,18
+5450506,Police constable,Twickenham Police Station,19:00 - 01:00,20,11,2,0
+2609373,Police constable,Plumstead Police Station,06:00 - 13:00,30,46,1,10
+6333360,Superintendent,Twickenham Police Station,06:00 - 13:00,35,97,5,15
+2142869,Deputy assistant commissioner,Islington Police Station,06:00 - 13:00,29,81,4,9
+1950032,Chief superintendent,Plumstead Police Station,13:00 - 19:00,36,74,5,16
+5478509,Superintendent,Lavender Hill Police Station,19:00 - 01:00,30,53,5,10
+949609,Police sergeant,43 Lewisham High Street,06:00 - 13:00,21,28,0,1
+8605247,Inspector,Walworth Police Station,12:00 - 07:00,25,16,1,5
+3110715,Police constable,Hayes Police Station,13:00 - 19:00,30,21,2,10
+5787833,Inspector,Twickenham Police Station,13:00 - 19:00,26,10,2,6
+8086395,Police constable,Mitcham Police Station,13:00 - 19:00,23,42,2,3
+3275801,Police constable,2 Town Square,12:00 - 07:00,21,42,2,1
+7199485,Police constable,High Street,12:00 - 07:00,24,36,0,4
+3931128,Chief superintendent,Charing Cross Police Station ,13:00 - 19:00,33,83,4,13
+5343179,Inspector,Charing Cross Police Station ,12:00 - 07:00,26,29,1,6
+3533798,Superintendent,Ilford Police Station,12:00 - 07:00,34,85,4,14
+2921751,Chief inspector,Ilford Police Station,06:00 - 13:00,21,23,1,1
+9915026,Commander,Kingston Police Station,06:00 - 13:00,37,68,4,17
+9387771,Chief inspector,Brixton Police Station,13:00 - 19:00,30,40,0,10
+6628334,Chief superintendent,Stoke Newington Police Station,13:00 - 19:00,31,98,4,11
+9791188,Chief inspector,Wembley Police Station,12:00 - 07:00,29,1,1,9
+6133914,Police constable,Tottenham Police Station,06:00 - 13:00,22,47,0,2
+4360187,Police sergeant,Wimbledon Police Station,13:00 - 19:00,23,49,1,3
+4299765,Chief superintendent,Plumstead Police Station,06:00 - 13:00,28,60,5,8
+159717,Police sergeant,Mitcham Police Station,13:00 - 19:00,21,37,2,1
+449001,Police sergeant,Dagenham Police Station,12:00 - 07:00,22,38,1,2
+6308382,Chief superintendent,Tottenham Police Station,12:00 - 07:00,31,60,5,11
+730848,Superintendent,Bethnal Green Police Station,19:00 - 01:00,28,77,3,8
+5159760,Chief inspector,Harrow Police Station & Annexes,12:00 - 07:00,30,41,0,10
+2638013,Police sergeant,Kentish Town Police Station,19:00 - 01:00,30,7,2,10
+6762585,Inspector,Dagenham Police Station,19:00 - 01:00,21,24,1,1
+6409764,Deputy commissioner,Ilford Police Station,13:00 - 19:00,47,122,6,27
+3620205,Inspector,Ilford Police Station,06:00 - 13:00,26,9,2,6
+9769694,Police sergeant,Bexleyheath Police Station,19:00 - 01:00,27,22,2,7
+4831044,Superintendent,Mitcham Police Station,19:00 - 01:00,35,92,3,15
+5673499,Chief superintendent,Brixton Police Station,06:00 - 13:00,33,88,3,13
+628053,Chief inspector,Dagenham Police Station,06:00 - 13:00,31,48,1,11
+7788546,Police constable,Bexleyheath Police Station,06:00 - 13:00,28,39,1,8
+9259976,Police constable,Charing Cross Police Station ,19:00 - 01:00,24,3,2,4
+2035410,Police sergeant,Sutton Police Station,12:00 - 07:00,22,47,0,2
+3715471,Deputy assistant commissioner,43 Lewisham High Street,13:00 - 19:00,34,66,5,14
+6319118,Inspector,Stoke Newington Police Station,13:00 - 19:00,25,3,2,5
+9486687,Chief superintendent,Ilford Police Station,19:00 - 01:00,28,58,5,8
+2783936,Police sergeant,Dagenham Police Station,19:00 - 01:00,31,10,0,11
+4871610,Police sergeant,Hayes Police Station,06:00 - 13:00,24,44,0,4
+6099859,Commander,Kingston Police Station,12:00 - 07:00,35,89,4,15
+9008505,Police constable,Romford Police Station,13:00 - 19:00,31,12,1,11
+8615300,Police sergeant,Wembley Police Station,06:00 - 13:00,24,45,1,4
+3184206,Police constable,Lavender Hill Police Station,13:00 - 19:00,22,15,0,2
+2110388,Police constable,Harrow Police Station & Annexes,12:00 - 07:00,22,43,0,2
+9155196,Inspector,Acton Police Station,12:00 - 07:00,22,32,1,2
+2837100,Police constable,Dagenham Police Station,19:00 - 01:00,31,10,0,11
+6408151,Deputy assistant commissioner,Bethnal Green Police Station,12:00 - 07:00,28,60,3,8
+6857257,Police constable,43 Lewisham High Street,13:00 - 19:00,25,40,2,5
+8140527,Police sergeant,Ilford Police Station,12:00 - 07:00,28,20,0,8
+7473442,Chief superintendent,Ilford Police Station,12:00 - 07:00,28,62,4,8
+1739266,Police constable,Romford Police Station,12:00 - 07:00,30,10,0,10
+5072925,Police constable,Kensington Police Station,19:00 - 01:00,27,2,2,7
+4137295,Superintendent,Charing Cross Police Station ,12:00 - 07:00,37,85,4,17
+7868463,Police sergeant,Wembley Police Station,13:00 - 19:00,22,39,1,2
+9048619,Chief inspector,High Street,12:00 - 07:00,29,23,2,9
+281640,Police constable,Chingford Police Station,12:00 - 07:00,25,11,2,5
+1119615,Police constable,Wimbledon Police Station,19:00 - 01:00,20,5,1,0
+3944309,Police constable,Bethnal Green Police Station,19:00 - 01:00,31,11,0,11
+6530469,Police constable,Twickenham Police Station,12:00 - 07:00,22,17,0,2
+5746038,Superintendent,Kentish Town Police Station,13:00 - 19:00,33,71,3,13
+9872703,Superintendent,Kingston Police Station,13:00 - 19:00,32,56,3,12
+2720568,Commander,Plumstead Police Station,06:00 - 13:00,29,52,4,9
+9260024,Chief inspector,Kensington Police Station,13:00 - 19:00,25,6,1,5
+9149971,Inspector,Kentish Town Police Station,13:00 - 19:00,22,40,0,2
+2954955,Police constable,Plumstead Police Station,19:00 - 01:00,21,35,2,1
+5647697,Police constable,Croydon Police Station,12:00 - 07:00,30,9,1,10
+9229056,Chief superintendent,26 Shepherds Bush Road,19:00 - 01:00,35,68,4,15
+7450569,Commander,88 Church Street,13:00 - 19:00,38,75,5,18
+9480921,Inspector,Hayes Police Station,19:00 - 01:00,28,7,2,8
+5350384,Inspector,Dagenham Police Station,12:00 - 07:00,31,32,1,11
+8081364,Police constable,Wembley Police Station,06:00 - 13:00,22,16,1,2
+3401072,Chief superintendent,88 Church Street,19:00 - 01:00,39,67,4,19
+9106984,Chief superintendent,Wimbledon Police Station,06:00 - 13:00,35,56,5,15
+1779361,Inspector,Hounslow Police Station,06:00 - 13:00,27,14,0,7
+9527238,Assistant commissioner,Wembley Police Station,13:00 - 19:00,49,122,6,29
+9516434,Police sergeant,Edmonton Police StationForest Gate Police Station,13:00 - 19:00,31,26,2,11
+4364064,Police constable,Walworth Police Station,06:00 - 13:00,30,17,0,10
+246225,Superintendent,43 Lewisham High Street,12:00 - 07:00,39,91,5,19
+7336088,Police constable,High Street,13:00 - 19:00,24,23,2,4
+8450266,Police sergeant,Bexleyheath Police Station,12:00 - 07:00,24,20,2,4
+1758406,Commissioner,Stoke Newington Police Station,19:00 - 01:00,47,110,6,27
+312583,Assistant commissioner,Lavender Hill Police Station,13:00 - 19:00,51,136,6,31
+6929537,Superintendent,Stoke Newington Police Station,19:00 - 01:00,36,78,5,16
+827846,Police constable,Sutton Police Station,13:00 - 19:00,23,41,1,3
+5857250,Police constable,Bexleyheath Police Station,12:00 - 07:00,25,1,2,5
+3065541,Chief inspector,Bethnal Green Police Station,12:00 - 07:00,20,15,2,0
+5516805,Police constable,Dagenham Police Station,12:00 - 07:00,26,1,2,6
+335919,Chief superintendent,Edmonton Police StationForest Gate Police Station,12:00 - 07:00,31,91,4,11
+409918,Police sergeant,Harrow Police Station & Annexes,13:00 - 19:00,24,3,0,4
+4625529,Police sergeant,26 Shepherds Bush Road,12:00 - 07:00,21,44,1,1
+3630855,Police constable,Hayes Police Station,06:00 - 13:00,24,21,2,4
+5415361,Police constable,Walworth Police Station,13:00 - 19:00,21,11,0,1
+1647707,Inspector,Stoke Newington Police Station,12:00 - 07:00,31,46,2,11
+3349576,Police sergeant,Brixton Police Station,06:00 - 13:00,29,19,0,9
+5036115,Superintendent,43 Lewisham High Street,06:00 - 13:00,36,97,4,16
+2302307,Deputy assistant commissioner,Ilford Police Station,12:00 - 07:00,30,75,4,10
+5451316,Police constable,Tottenham Police Station,19:00 - 01:00,20,9,0,0
+4250981,Chief inspector,Charing Cross Police Station ,12:00 - 07:00,20,28,1,0
+8627382,Commander,26 Shepherds Bush Road,12:00 - 07:00,37,64,4,17
+6050701,Police constable,Colindale Police Station,12:00 - 07:00,26,17,0,6
+2397282,Superintendent,Kingston Police Station,19:00 - 01:00,32,63,4,12
+6782965,Inspector,Hounslow Police Station,06:00 - 13:00,28,39,1,8
+2002892,Police constable,Stoke Newington Police Station,19:00 - 01:00,30,30,2,10
+1457555,Police constable,Ilford Police Station,06:00 - 13:00,30,17,1,10
+5032710,Commander,Bexleyheath Police Station,12:00 - 07:00,28,94,5,8
+8473720,Police sergeant,Walworth Police Station,13:00 - 19:00,30,23,2,10
+9404233,Police constable,Walworth Police Station,12:00 - 07:00,25,6,1,5
+3806452,Police constable,Plumstead Police Station,19:00 - 01:00,31,49,1,11
+4303697,Chief inspector,Kensington Police Station,13:00 - 19:00,23,48,2,3
+9025225,Inspector,Wembley Police Station,06:00 - 13:00,20,4,1,0
+8245271,Police sergeant,2 Town Square,13:00 - 19:00,24,4,2,4
+6879745,Police constable,Islington Police Station,12:00 - 07:00,21,23,1,1
+9787806,Police sergeant,Mitcham Police Station,19:00 - 01:00,24,34,2,4
+6921331,Inspector,Acton Police Station,13:00 - 19:00,22,23,1,2
+9195924,Superintendent,Hounslow Police Station,13:00 - 19:00,30,78,5,10
+4370138,Commander,Colindale Police Station,13:00 - 19:00,32,63,3,12
+5864619,Inspector,Wembley Police Station,06:00 - 13:00,24,24,1,4
+6571340,Inspector,Chingford Police Station,12:00 - 07:00,31,1,1,11
+2838522,Chief inspector,Kensington Police Station,19:00 - 01:00,30,28,1,10
+4712948,Police constable,Romford Police Station,19:00 - 01:00,23,45,2,3
+7628623,Police constable,88 Church Street,19:00 - 01:00,30,1,1,10
+9068597,Police constable,Dagenham Police Station,06:00 - 13:00,30,29,0,10
+1989441,Police constable,Bexleyheath Police Station,19:00 - 01:00,25,48,2,5
+3775885,Assistant commissioner,2 Town Square,12:00 - 07:00,57,115,6,37
+7786844,Chief inspector,Mitcham Police Station,12:00 - 07:00,23,40,0,3
+7523557,Chief superintendent,43 Lewisham High Street,19:00 - 01:00,34,52,3,14
+1740099,Police constable,Ilford Police Station,12:00 - 07:00,26,37,1,6
+9386711,Police constable,Stoke Newington Police Station,12:00 - 07:00,22,30,1,2
+9088551,Inspector,High Street,19:00 - 01:00,30,2,0,10
+1608898,Police sergeant,Charing Cross Police Station ,06:00 - 13:00,27,28,0,7
+4750089,Police constable,High Street,13:00 - 19:00,29,22,1,9
+4501489,Commander,Tottenham Police Station,06:00 - 13:00,34,91,5,14
+9454043,Chief inspector,Dagenham Police Station,06:00 - 13:00,29,20,0,9
+3255566,Police sergeant,88 Church Street,19:00 - 01:00,25,21,0,5
+1483311,Chief inspector,Wembley Police Station,06:00 - 13:00,20,11,0,0
+4013619,Police constable,Hounslow Police Station,13:00 - 19:00,26,13,0,6
+5237840,Police constable,Dagenham Police Station,13:00 - 19:00,24,37,0,4
+963769,Police constable,Walworth Police Station,19:00 - 01:00,20,19,0,0
+928960,Deputy commissioner,Croydon Police Station,06:00 - 13:00,53,128,5,33
+2696462,Police constable,Bexleyheath Police Station,19:00 - 01:00,21,36,1,1
+4895188,Superintendent,Islington Police Station,12:00 - 07:00,37,78,5,17
+9351608,Inspector,Kentish Town Police Station,19:00 - 01:00,26,22,0,6
+1753054,Commissioner,Romford Police Station,13:00 - 19:00,55,126,5,35
+8808024,Chief inspector,Kingston Police Station,13:00 - 19:00,29,0,1,9
+5564134,Deputy commissioner,Bexleyheath Police Station,13:00 - 19:00,60,115,5,40
+6309828,Inspector,Harrow Police Station & Annexes,12:00 - 07:00,29,35,0,9
+8690836,Police constable,Kingston Police Station,12:00 - 07:00,24,11,0,4
+3797977,Police constable,Walworth Police Station,06:00 - 13:00,30,30,2,10
+5082989,Inspector,Harrow Police Station & Annexes,13:00 - 19:00,30,6,1,10
+8001265,Police constable,Wembley Police Station,19:00 - 01:00,31,22,1,11
+8256608,Deputy assistant commissioner,Wimbledon Police Station,19:00 - 01:00,37,85,4,17
+214446,Inspector,Bexleyheath Police Station,06:00 - 13:00,21,20,1,1
+129065,Police constable,Brixton Police Station,12:00 - 07:00,29,39,1,9
+8246705,Chief superintendent,Wembley Police Station,06:00 - 13:00,33,76,4,13
+3010177,Deputy assistant commissioner,Hayes Police Station,12:00 - 07:00,28,88,4,8
+9094863,Police sergeant,Chingford Police Station,12:00 - 07:00,24,42,2,4
+4141967,Inspector,Brixton Police Station,13:00 - 19:00,25,19,0,5
+6304245,Chief inspector,26 Shepherds Bush Road,19:00 - 01:00,31,6,2,11
+9493365,Commander,Acton Police Station,19:00 - 01:00,30,63,4,10
+4899374,Police constable,Kingston Police Station,19:00 - 01:00,26,27,1,6
+2954425,Police constable,88 Church Street,12:00 - 07:00,22,47,2,2
+8994474,Chief superintendent,Bexleyheath Police Station,12:00 - 07:00,35,81,5,15
+8105744,Police sergeant,Walworth Police Station,06:00 - 13:00,20,42,1,0
+3354060,Inspector,Kingston Police Station,06:00 - 13:00,24,2,0,4
+4825579,Police sergeant,Ilford Police Station,13:00 - 19:00,20,46,1,0
+5300158,Chief inspector,Colindale Police Station,12:00 - 07:00,29,31,1,9
+9527711,Police sergeant,Brixton Police Station,19:00 - 01:00,21,30,2,1
+1618523,Police constable,Romford Police Station,06:00 - 13:00,22,25,1,2
+4126676,Police constable,Islington Police Station,12:00 - 07:00,28,38,0,8
+6042084,Police sergeant,2 Town Square,13:00 - 19:00,30,25,2,10
+1215444,Inspector,Sutton Police Station,12:00 - 07:00,30,14,0,10
+4484371,Police constable,Twickenham Police Station,06:00 - 13:00,28,34,0,8
+1189877,Chief inspector,Harrow Police Station & Annexes,19:00 - 01:00,31,20,0,11
+1648794,Superintendent,Lavender Hill Police Station,06:00 - 13:00,32,90,4,12
+4162576,Inspector,Colindale Police Station,13:00 - 19:00,20,4,1,0
+456292,Police constable,Islington Police Station,19:00 - 01:00,25,21,2,5
+4601009,Police constable,Romford Police Station,12:00 - 07:00,25,7,2,5
+6118950,Inspector,Kingston Police Station,12:00 - 07:00,23,28,0,3
+2862898,Superintendent,Brixton Police Station,13:00 - 19:00,36,63,5,16
+977996,Police constable,High Street,19:00 - 01:00,26,4,0,6
+6652894,Commander,Dagenham Police Station,06:00 - 13:00,36,84,4,16
+6569891,Superintendent,Ilford Police Station,13:00 - 19:00,30,59,3,10
+6077889,Inspector,Romford Police Station,19:00 - 01:00,20,33,1,0
+2271124,Superintendent,Stoke Newington Police Station,19:00 - 01:00,32,51,5,12
+3588840,Police constable,Kingston Police Station,19:00 - 01:00,21,49,2,1
+4839080,Inspector,Tottenham Police Station,12:00 - 07:00,20,14,2,0
+1059637,Chief superintendent,Plumstead Police Station,06:00 - 13:00,28,88,4,8
+8944843,Police sergeant,Romford Police Station,19:00 - 01:00,22,36,2,2
+4242858,Assistant commissioner,Kentish Town Police Station,13:00 - 19:00,52,112,5,32
+3433673,Chief inspector,Bexleyheath Police Station,06:00 - 13:00,26,27,1,6
+3521875,Assistant commissioner,Stoke Newington Police Station,12:00 - 07:00,44,148,6,24
+628732,Chief inspector,Hayes Police Station,19:00 - 01:00,26,20,2,6
+9979924,Police constable,Bexleyheath Police Station,19:00 - 01:00,26,30,1,6
+4206997,Police sergeant,Sutton Police Station,06:00 - 13:00,23,30,2,3
+9351605,Police sergeant,26 Shepherds Bush Road,12:00 - 07:00,31,7,0,11
+8052775,Police sergeant,Kingston Police Station,12:00 - 07:00,23,28,2,3
+2607259,Inspector,Chingford Police Station,19:00 - 01:00,22,29,0,2
+7987470,Chief inspector,Wembley Police Station,13:00 - 19:00,24,49,0,4
+2371262,Police constable,Walworth Police Station,12:00 - 07:00,21,48,1,1
+860737,Chief inspector,Wembley Police Station,19:00 - 01:00,23,45,0,3
+8893110,Police constable,Ilford Police Station,12:00 - 07:00,31,38,0,11
+7724505,Police sergeant,Chingford Police Station,06:00 - 13:00,22,43,0,2
+9027832,Police constable,Kingston Police Station,06:00 - 13:00,25,49,0,5
+6063940,Chief inspector,Wimbledon Police Station,13:00 - 19:00,20,11,1,0
+4248559,Assistant commissioner,Ilford Police Station,13:00 - 19:00,60,102,6,40
+6080455,Superintendent,Plumstead Police Station,13:00 - 19:00,30,71,3,10
+9155973,Police constable,Colindale Police Station,06:00 - 13:00,25,23,0,5
+6434022,Inspector,Twickenham Police Station,13:00 - 19:00,27,47,0,7
+5416047,Police sergeant,Acton Police Station,12:00 - 07:00,22,3,1,2
+9774845,Police constable,Kingston Police Station,06:00 - 13:00,24,3,2,4
+1661275,Chief superintendent,Harrow Police Station & Annexes,12:00 - 07:00,38,95,3,18
+9657902,Commander,Brixton Police Station,19:00 - 01:00,29,73,5,9
+7306364,Police constable,Sutton Police Station,12:00 - 07:00,23,43,2,3
+5877755,Chief superintendent,Colindale Police Station,13:00 - 19:00,32,62,3,12
+5403591,Police constable,Brixton Police Station,12:00 - 07:00,20,38,0,0
+3948099,Inspector,Harrow Police Station & Annexes,12:00 - 07:00,30,35,2,10
+3665112,Chief superintendent,Harrow Police Station & Annexes,13:00 - 19:00,28,91,5,8
+6427218,Inspector,Islington Police Station,06:00 - 13:00,23,39,2,3
+6552554,Police constable,Acton Police Station,12:00 - 07:00,30,24,2,10
+9246510,Commander,Plumstead Police Station,19:00 - 01:00,38,59,5,18
+4976908,Inspector,Wimbledon Police Station,12:00 - 07:00,27,22,2,7
+1324978,Superintendent,43 Lewisham High Street,19:00 - 01:00,36,60,3,16
+2940097,Police sergeant,88 Church Street,06:00 - 13:00,23,31,0,3
+6074523,Assistant commissioner,Kensington Police Station,06:00 - 13:00,50,104,5,30
+7278858,Chief inspector,88 Church Street,13:00 - 19:00,22,2,0,2
+4063468,Police constable,Charing Cross Police Station ,12:00 - 07:00,22,42,2,2
+4270152,Deputy assistant commissioner,43 Lewisham High Street,12:00 - 07:00,38,93,3,18
+4843438,Police constable,Charing Cross Police Station ,19:00 - 01:00,28,2,1,8
+6450087,Deputy assistant commissioner,Edmonton Police StationForest Gate Police Station,06:00 - 13:00,38,94,4,18
+6125572,Inspector,Wimbledon Police Station,19:00 - 01:00,28,42,2,8
+9580646,Police sergeant,Plumstead Police Station,12:00 - 07:00,30,36,0,10
+4423261,Police sergeant,2 Town Square,06:00 - 13:00,24,40,1,4
+4054740,Police sergeant,Hounslow Police Station,19:00 - 01:00,25,32,2,5
+2876875,Police constable,Charing Cross Police Station ,06:00 - 13:00,23,39,1,3
+2602077,Police constable,Wembley Police Station,12:00 - 07:00,26,7,0,6
+1408311,Police constable,Hounslow Police Station,12:00 - 07:00,23,26,1,3
+2429318,Assistant commissioner,Walworth Police Station,13:00 - 19:00,49,100,6,29
+9958689,Superintendent,Lavender Hill Police Station,06:00 - 13:00,39,80,3,19
+473620,Inspector,Walworth Police Station,06:00 - 13:00,23,38,0,3
+6800211,Inspector,Chingford Police Station,12:00 - 07:00,21,14,0,1
+7754236,Police constable,Wimbledon Police Station,12:00 - 07:00,21,44,0,1
+6595521,Police constable,Acton Police Station,12:00 - 07:00,26,39,1,6
+777258,Police constable,Hounslow Police Station,06:00 - 13:00,21,7,1,1
+9174166,Police constable,Kingston Police Station,06:00 - 13:00,26,7,1,6
+2844469,Inspector,Hayes Police Station,13:00 - 19:00,26,8,0,6
+4942821,Police sergeant,88 Church Street,12:00 - 07:00,26,24,1,6
+5365844,Police constable,Ilford Police Station,19:00 - 01:00,29,15,1,9
+1586512,Police constable,Kentish Town Police Station,12:00 - 07:00,26,2,1,6
+7892727,Police sergeant,Acton Police Station,13:00 - 19:00,27,46,0,7
+2966372,Police sergeant,Lavender Hill Police Station,12:00 - 07:00,27,0,1,7
+5132452,Police constable,Kentish Town Police Station,13:00 - 19:00,27,1,1,7
+9517226,Police sergeant,Kingston Police Station,19:00 - 01:00,30,19,1,10
+531353,Chief inspector,Islington Police Station,13:00 - 19:00,28,16,2,8
+2401715,Chief inspector,Islington Police Station,06:00 - 13:00,31,30,2,11
+1724326,Police constable,Dagenham Police Station,12:00 - 07:00,24,31,0,4
+523572,Superintendent,Ilford Police Station,13:00 - 19:00,39,50,3,19
+599559,Inspector,Hounslow Police Station,12:00 - 07:00,28,47,0,8
+4198705,Police sergeant,Kingston Police Station,13:00 - 19:00,31,28,2,11
+5209283,Police constable,Lavender Hill Police Station,12:00 - 07:00,30,39,1,10
+9145596,Police constable,43 Lewisham High Street,12:00 - 07:00,22,1,1,2
+6038557,Deputy commissioner,Stoke Newington Police Station,13:00 - 19:00,51,135,5,31
+902822,Police sergeant,Acton Police Station,13:00 - 19:00,24,21,2,4
+6561650,Police constable,Hounslow Police Station,19:00 - 01:00,23,3,1,3
+9735248,Chief inspector,Kensington Police Station,13:00 - 19:00,28,36,2,8
+904668,Inspector,Brixton Police Station,13:00 - 19:00,21,32,2,1
+270148,Police sergeant,Harrow Police Station & Annexes,13:00 - 19:00,30,2,1,10
+566157,Inspector,88 Church Street,06:00 - 13:00,24,43,0,4
+4087992,Chief inspector,Dagenham Police Station,12:00 - 07:00,23,16,1,3
+8010718,Deputy commissioner,Mitcham Police Station,13:00 - 19:00,46,149,5,26
+7124527,Superintendent,Kingston Police Station,13:00 - 19:00,36,97,3,16
+5128563,Police constable,Islington Police Station,13:00 - 19:00,25,10,2,5
+5143925,Police constable,26 Shepherds Bush Road,13:00 - 19:00,22,10,2,2
+6298222,Police sergeant,Bexleyheath Police Station,12:00 - 07:00,24,6,1,4
+6490652,Commander,Islington Police Station,12:00 - 07:00,31,89,3,11
+4952798,Deputy assistant commissioner,Chingford Police Station,12:00 - 07:00,37,85,5,17
+1870029,Chief superintendent,Bexleyheath Police Station,19:00 - 01:00,30,78,5,10
+1983587,Chief inspector,Kensington Police Station,19:00 - 01:00,28,30,0,8
+264444,Inspector,Plumstead Police Station,13:00 - 19:00,28,35,2,8
+2649507,Police sergeant,43 Lewisham High Street,13:00 - 19:00,24,6,1,4
+9112148,Police constable,Kingston Police Station,12:00 - 07:00,28,41,0,8
+8108304,Inspector,Lavender Hill Police Station,19:00 - 01:00,23,36,0,3
+4597851,Police sergeant,Sutton Police Station,06:00 - 13:00,26,0,1,6
+948513,Inspector,Edmonton Police StationForest Gate Police Station,12:00 - 07:00,21,5,0,1
+6513230,Commander,Chingford Police Station,12:00 - 07:00,28,70,3,8
+4072451,Chief inspector,Wembley Police Station,19:00 - 01:00,23,45,2,3
+9282868,Police constable,Brixton Police Station,12:00 - 07:00,20,38,2,0
+8534327,Police constable,Twickenham Police Station,19:00 - 01:00,20,19,0,0
+6705397,Police sergeant,Charing Cross Police Station ,19:00 - 01:00,21,43,1,1
+984716,Deputy assistant commissioner,26 Shepherds Bush Road,12:00 - 07:00,34,63,3,14
+2869183,Police constable,Acton Police Station,12:00 - 07:00,29,31,2,9
+6622445,Police constable,43 Lewisham High Street,13:00 - 19:00,28,47,0,8
+7451577,Superintendent,Chingford Police Station,13:00 - 19:00,32,50,5,12
+2680261,Police constable,Plumstead Police Station,06:00 - 13:00,20,15,1,0
+6873233,Commander,Tottenham Police Station,19:00 - 01:00,37,96,5,17
+7691848,Police sergeant,26 Shepherds Bush Road,19:00 - 01:00,22,9,1,2
+8954608,Chief inspector,Edmonton Police StationForest Gate Police Station,13:00 - 19:00,28,49,1,8
+1826506,Police sergeant,Kingston Police Station,13:00 - 19:00,21,6,1,1
+46876,Chief superintendent,Kentish Town Police Station,13:00 - 19:00,33,84,4,13
+2092535,Police constable,Walworth Police Station,13:00 - 19:00,21,38,0,1
+6156766,Police sergeant,Ilford Police Station,06:00 - 13:00,28,4,2,8
+7177663,Police constable,Ilford Police Station,06:00 - 13:00,21,6,2,1
+6249934,Police constable,Stoke Newington Police Station,19:00 - 01:00,29,24,0,9
+4430243,Inspector,Charing Cross Police Station ,13:00 - 19:00,24,19,2,4
+8358644,Police constable,Harrow Police Station & Annexes,06:00 - 13:00,20,19,2,0
+3945335,Police constable,26 Shepherds Bush Road,12:00 - 07:00,21,26,0,1
+546846,Police constable,Dagenham Police Station,13:00 - 19:00,24,0,2,4
+504699,Police sergeant,High Street,06:00 - 13:00,31,36,1,11
+7689134,Police sergeant,Hounslow Police Station,12:00 - 07:00,27,40,1,7
+8465457,Police constable,Stoke Newington Police Station,06:00 - 13:00,24,14,1,4
+1336492,Chief superintendent,Chingford Police Station,06:00 - 13:00,30,72,3,10
+7440886,Deputy assistant commissioner,88 Church Street,19:00 - 01:00,32,79,4,12
+5941410,Police sergeant,Bexleyheath Police Station,12:00 - 07:00,30,8,1,10
+5689186,Police sergeant,Lavender Hill Police Station,06:00 - 13:00,25,24,2,5
+653395,Inspector,43 Lewisham High Street,19:00 - 01:00,21,23,0,1
+502642,Police constable,Plumstead Police Station,12:00 - 07:00,31,11,0,11
+7325564,Police constable,Wimbledon Police Station,06:00 - 13:00,20,10,2,0
+8631168,Inspector,43 Lewisham High Street,06:00 - 13:00,25,7,2,5
+57644,Police constable,Romford Police Station,13:00 - 19:00,30,41,0,10
+9056561,Police sergeant,Lavender Hill Police Station,13:00 - 19:00,23,47,1,3
+7561016,Police constable,Croydon Police Station,12:00 - 07:00,20,14,1,0
+630880,Inspector,43 Lewisham High Street,12:00 - 07:00,25,10,1,5
+9817061,Police constable,Romford Police Station,06:00 - 13:00,27,11,1,7
+1198364,Police constable,2 Town Square,19:00 - 01:00,30,14,0,10
+425920,Police constable,Croydon Police Station,12:00 - 07:00,24,42,1,4
+8239211,Police constable,Sutton Police Station,13:00 - 19:00,26,32,1,6
+2915766,Police constable,26 Shepherds Bush Road,13:00 - 19:00,24,15,0,4
+7166112,Inspector,Wembley Police Station,06:00 - 13:00,26,11,0,6
+3536573,Inspector,Wembley Police Station,06:00 - 13:00,26,22,1,6
+5986668,Police constable,Croydon Police Station,06:00 - 13:00,25,24,2,5
+4246949,Inspector,Hayes Police Station,19:00 - 01:00,21,19,0,1
+3744534,Superintendent,Dagenham Police Station,19:00 - 01:00,29,82,4,9
+5577829,Police constable,Romford Police Station,19:00 - 01:00,29,23,0,9
+8674278,Superintendent,Colindale Police Station,06:00 - 13:00,29,54,4,9
+4036550,Commander,Bexleyheath Police Station,06:00 - 13:00,36,92,5,16
+9080018,Police constable,Croydon Police Station,13:00 - 19:00,21,28,0,1
+6900818,Police constable,Mitcham Police Station,13:00 - 19:00,25,48,2,5
+3988082,Inspector,Islington Police Station,12:00 - 07:00,27,35,0,7
+4760265,Assistant commissioner,Edmonton Police StationForest Gate Police Station,12:00 - 07:00,56,127,5,36
+630369,Police sergeant,Romford Police Station,06:00 - 13:00,24,17,2,4
+7896176,Police constable,Acton Police Station,12:00 - 07:00,23,5,2,3
+941069,Chief superintendent,Kentish Town Police Station,19:00 - 01:00,30,91,3,10
+1028194,Inspector,Twickenham Police Station,12:00 - 07:00,31,18,2,11
+5829533,Superintendent,Croydon Police Station,19:00 - 01:00,28,72,4,8
+645274,Police constable,Chingford Police Station,12:00 - 07:00,22,35,1,2
+4884208,Chief inspector,Kingston Police Station,06:00 - 13:00,21,31,0,1
+6197706,Inspector,Acton Police Station,06:00 - 13:00,29,15,2,9
+4309606,Police sergeant,Dagenham Police Station,19:00 - 01:00,23,18,2,3
+9782436,Superintendent,Croydon Police Station,13:00 - 19:00,38,87,5,18
+3313327,Superintendent,Kentish Town Police Station,12:00 - 07:00,32,57,4,12
+4638036,Police constable,Wimbledon Police Station,13:00 - 19:00,24,25,2,4
+2131410,Deputy commissioner,43 Lewisham High Street,19:00 - 01:00,53,119,5,33
+572383,Superintendent,Sutton Police Station,13:00 - 19:00,28,68,4,8
+9363796,Police constable,Ilford Police Station,06:00 - 13:00,22,35,2,2
+3644413,Commander,Hounslow Police Station,13:00 - 19:00,37,75,4,17
+9279929,Chief inspector,Kingston Police Station,06:00 - 13:00,23,6,0,3
+9002944,Police sergeant,26 Shepherds Bush Road,13:00 - 19:00,28,16,0,8
+5690737,Inspector,Sutton Police Station,06:00 - 13:00,23,23,0,3
+8485218,Police sergeant,2 Town Square,19:00 - 01:00,29,24,0,9
+2855300,Commissioner,Wembley Police Station,13:00 - 19:00,56,135,5,36
+8433167,Superintendent,Lavender Hill Police Station,19:00 - 01:00,32,96,5,12
+9424516,Police constable,88 Church Street,13:00 - 19:00,29,5,0,9
+4941631,Police sergeant,Edmonton Police StationForest Gate Police Station,19:00 - 01:00,27,46,2,7
+1767488,Police sergeant,Walworth Police Station,06:00 - 13:00,31,13,2,11
+6653786,Superintendent,Plumstead Police Station,06:00 - 13:00,35,69,4,15
+3144270,Police constable,Twickenham Police Station,19:00 - 01:00,28,49,1,8
+2010704,Chief superintendent,Dagenham Police Station,06:00 - 13:00,39,61,3,19
+9296077,Police constable,Romford Police Station,19:00 - 01:00,30,22,2,10
+9660162,Superintendent,Islington Police Station,13:00 - 19:00,36,97,5,16
+9009448,Chief inspector,Wimbledon Police Station,19:00 - 01:00,27,22,0,7
+633160,Superintendent,Chingford Police Station,06:00 - 13:00,34,90,5,14
+2328256,Police constable,Bexleyheath Police Station,13:00 - 19:00,20,49,0,0
+3944097,Chief superintendent,Mitcham Police Station,13:00 - 19:00,31,69,3,11
+6216096,Police constable,Mitcham Police Station,13:00 - 19:00,27,8,1,7
+7745759,Inspector,Wimbledon Police Station,12:00 - 07:00,23,29,1,3
+2214582,Police sergeant,Colindale Police Station,13:00 - 19:00,22,29,1,2
+1951066,Police constable,Wimbledon Police Station,13:00 - 19:00,22,31,1,2
+2655240,Police constable,Charing Cross Police Station ,12:00 - 07:00,21,31,1,1
+409774,Police constable,Twickenham Police Station,06:00 - 13:00,28,14,0,8
+9211597,Chief inspector,Chingford Police Station,06:00 - 13:00,23,26,1,3
+4995816,Chief inspector,Wembley Police Station,13:00 - 19:00,31,47,0,11
+1628380,Police constable,Sutton Police Station,13:00 - 19:00,29,39,2,9
+3114461,Police constable,Charing Cross Police Station ,12:00 - 07:00,26,39,1,6
+760922,Police sergeant,Dagenham Police Station,06:00 - 13:00,27,3,0,7
+3471642,Chief inspector,Mitcham Police Station,12:00 - 07:00,24,14,2,4
+1140801,Inspector,Hounslow Police Station,12:00 - 07:00,25,45,1,5
+5802428,Assistant commissioner,Twickenham Police Station,12:00 - 07:00,52,143,6,32
+1751612,Inspector,Wimbledon Police Station,19:00 - 01:00,26,43,2,6
+8371670,Police constable,Harrow Police Station & Annexes,19:00 - 01:00,20,19,1,0
+7052849,Police constable,43 Lewisham High Street,19:00 - 01:00,31,5,1,11
+8992004,Inspector,Kentish Town Police Station,06:00 - 13:00,29,49,0,9
+3041883,Superintendent,Romford Police Station,06:00 - 13:00,29,59,5,9
+5327801,Inspector,Chingford Police Station,12:00 - 07:00,22,42,1,2
+639954,Inspector,88 Church Street,19:00 - 01:00,27,28,2,7
+5612234,Commander,88 Church Street,12:00 - 07:00,30,66,4,10
+75859,Chief inspector,Bethnal Green Police Station,19:00 - 01:00,24,40,0,4
+9400333,Police constable,Wembley Police Station,13:00 - 19:00,23,35,0,3
+6043746,Inspector,Kentish Town Police Station,19:00 - 01:00,21,38,1,1
+8213531,Chief inspector,Wimbledon Police Station,06:00 - 13:00,21,46,2,1
+7192765,Police constable,Brixton Police Station,13:00 - 19:00,21,41,1,1
+7547898,Deputy assistant commissioner,Brixton Police Station,06:00 - 13:00,33,78,5,13
+7551055,Chief inspector,Plumstead Police Station,06:00 - 13:00,27,0,0,7
+7433127,Inspector,High Street,06:00 - 13:00,21,34,2,1
+1676650,Police sergeant,Edmonton Police StationForest Gate Police Station,06:00 - 13:00,27,47,1,7
+7655537,Police constable,Brixton Police Station,12:00 - 07:00,23,17,2,3
+1374035,Inspector,Hounslow Police Station,19:00 - 01:00,27,14,1,7
+3922046,Chief superintendent,2 Town Square,12:00 - 07:00,38,62,3,18
+6985240,Inspector,Islington Police Station,06:00 - 13:00,24,15,1,4
+5401789,Chief inspector,Ilford Police Station,06:00 - 13:00,21,13,0,1
+3653682,Police sergeant,Ilford Police Station,19:00 - 01:00,23,10,1,3
+7884680,Inspector,88 Church Street,12:00 - 07:00,20,15,1,0
+950016,Police constable,Charing Cross Police Station ,13:00 - 19:00,23,12,1,3
+3665189,Police constable,Kentish Town Police Station,06:00 - 13:00,28,19,1,8
+1528586,Superintendent,Romford Police Station,06:00 - 13:00,32,57,5,12
+7516863,Police constable,Hayes Police Station,19:00 - 01:00,31,5,1,11
+446793,Inspector,Edmonton Police StationForest Gate Police Station,12:00 - 07:00,25,6,0,5
+1772693,Superintendent,Hounslow Police Station,06:00 - 13:00,38,58,4,18
+8346560,Superintendent,Croydon Police Station,19:00 - 01:00,28,94,4,8
+3600398,Police sergeant,Stoke Newington Police Station,06:00 - 13:00,23,12,1,3
+9732590,Chief inspector,Kentish Town Police Station,12:00 - 07:00,20,19,0,0
+4496141,Police constable,Plumstead Police Station,12:00 - 07:00,30,26,1,10
+239841,Inspector,Stoke Newington Police Station,06:00 - 13:00,20,47,2,0
+5554221,Superintendent,Romford Police Station,19:00 - 01:00,34,67,4,14
+6820995,Chief superintendent,Twickenham Police Station,19:00 - 01:00,30,79,3,10
+2747088,Inspector,Dagenham Police Station,19:00 - 01:00,23,28,2,3
+7709306,Chief superintendent,Walworth Police Station,12:00 - 07:00,29,60,4,9
+8839246,Police sergeant,Brixton Police Station,19:00 - 01:00,21,15,0,1
+9506620,Commander,Chingford Police Station,06:00 - 13:00,28,84,3,8
+839377,Deputy commissioner,Hounslow Police Station,12:00 - 07:00,42,144,5,22
+8590965,Assistant commissioner,Wimbledon Police Station,13:00 - 19:00,54,139,5,34
+5664308,Assistant commissioner,Walworth Police Station,12:00 - 07:00,54,105,6,34
